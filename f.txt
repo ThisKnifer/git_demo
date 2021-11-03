@@ -1,9 +1,8 @@
+Konfliktin ratkaisu...
 Lisäsin tämän paikallisessa työhakemistossa
+Lisäsin tämän GitHubissa
 pull assingment
-<<<<<<< Updated upstream
 This text isnt on any local machines
-=======
 
 
 practicing stash...
->>>>>>> Stashed changes
