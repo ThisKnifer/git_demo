@@ -1,3 +1,4 @@
+Lisäsin tämän paikallisessa työhakemistossa
 pull assingment
 <<<<<<< Updated upstream
 This text isnt on any local machines
